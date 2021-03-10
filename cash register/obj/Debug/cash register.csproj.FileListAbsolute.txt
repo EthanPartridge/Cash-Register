@@ -1,0 +1,7 @@
+C:\Users\ethan\source\repos\cash register\cash register\obj\Debug\cash register.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\cash register\cash register\obj\Debug\cash register.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\cash register\cash register\bin\Debug\cash register.exe.config
+C:\Users\ethan\source\repos\cash register\cash register\bin\Debug\cash register.exe
+C:\Users\ethan\source\repos\cash register\cash register\bin\Debug\cash register.pdb
+C:\Users\ethan\source\repos\cash register\cash register\obj\Debug\cash register.exe
+C:\Users\ethan\source\repos\cash register\cash register\obj\Debug\cash register.pdb
