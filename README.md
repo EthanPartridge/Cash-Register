@@ -6,4 +6,4 @@ will ask the user how much change is due. The user will type in $24.68. The prog
 the user to give the customer 1 twenty dollar bill, 4 one dollar bills, 2 quarters, 1 dime, 1 nickel,
 and 3 pennies.
 
-The .cs file is located under
+The .cs file is located in the "cash register" folder and is named "Program.cs".
