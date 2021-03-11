@@ -1,5 +1,5 @@
 # CashRegister
-Simple cash register I built using C# and .net framework for CS 258 I believe.
+Simple cash register I built using C# and .net framework for CS 358 - Intermediate OOProgramming Using C#.
 
 Currently, it only tells the user how to give change back to the customer. For example, the program
 will ask the user how much change is due. The user will type in $24.68. The program will then tell
